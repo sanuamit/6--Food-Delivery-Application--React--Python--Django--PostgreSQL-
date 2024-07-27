@@ -1,0 +1,34 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Cheeseburger",
+            "description": "A delicious cheeseburger with lettuce, tomato, and cheese.",
+            "price": 8.99
+        },
+        {
+            "id": 2,
+            "name": "Vegan Salad",
+            "description": "A healthy salad with a variety of fresh vegetables.",
+            "price": 6.99
+        },
+        {
+            "id": 3,
+            "name": "Grilled Chicken Sandwich",
+            "description": "Grilled chicken breast with lettuce and mayo.",
+            "price": 7.99
+        },
+        {
+            "id": 4,
+            "name": "Pasta Alfredo",
+            "description": "Creamy Alfredo sauce over fettuccine pasta.",
+            "price": 10.99
+        },
+        {
+            "id": 5,
+            "name": "Tacos",
+            "description": "Soft tacos with beef, lettuce, cheese, and salsa.",
+            "price": 6.49
+        }
+    ]
+}
